@@ -1,0 +1,10 @@
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\obj\Debug\JugandoConWF_MVP_03.csproj.AssemblyReference.cache
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\obj\Debug\JugandoConWF_MVP_03.Form1.resources
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\obj\Debug\JugandoConWF_MVP_03.Properties.Resources.resources
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\obj\Debug\JugandoConWF_MVP_03.csproj.GenerateResource.cache
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\obj\Debug\JugandoConWF_MVP_03.csproj.CoreCompileInputs.cache
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\bin\Debug\JugandoConWF_MVP_03.exe.config
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\bin\Debug\JugandoConWF_MVP_03.exe
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\bin\Debug\JugandoConWF_MVP_03.pdb
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\obj\Debug\JugandoConWF_MVP_03.exe
+C:\Users\Alesa\source\repos\JugandoConWF_MVP_03\obj\Debug\JugandoConWF_MVP_03.pdb
